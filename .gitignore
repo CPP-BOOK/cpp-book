@@ -1,3 +1,9 @@
+# Ignore all
+*
+
+# Unignore files with extensions
+!*.*
+
 # Prerequisites
 *.d
 
