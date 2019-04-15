@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"adve",
+				"adventurers"
+			],
+			[
+				"ad",
+				"adventurers"
+			],
+			[
+				"adven",
+				"adventurers"
+			],
+			[
+				"e",
+				"EASY"
+			],
+			[
+				"al",
+				"ALIEN_POINTS"
+			],
+			[
+				"en",
+				"engineTemp"
+			],
+			[
+				"a",
+				"aliensKilled"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build With: C++ Single File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Tmpl: Create html"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jaime/Documents/coding_projects/cpp_book/chapter2/score_rater.cpp",
+		"/C/Users/jaime/Documents/coding_projects/cpp_book/chapter1/game_over.cpp",
+		"/C/Users/jaime/Documents/coding_projects/cpp_book/chapter1/game_stats.cpp",
+		"/C/Users/jaime/Documents/coding_projects/cpp_book/chapter1/game_stats_2.cpp",
+		"/C/Users/jaime/Documents/coding_projects/cpp_book/chapter1/game_stats_3.cpp",
+		"/C/Users/jaime/Documents/coding_projects/cpp_book/chapter1/lost_fortune.cpp",
+		"/C/Users/jaime/Documents/coding_projects/cpp_book/chapter1/expensive_calculator.cpp",
+		"/C/Users/jaime/Documents/coding_projects/Testing Sublime Text/jaimeClass.java",
+		"/C/Users/jaime/Documents/Coding Projects/C++ Book/Chapter 1/game_over.cpp",
+		"/C/Users/jaime/Documents/Coding Projects/C++ Book/Chapter 1/expensive_calculator.cpp",
+		"/C/Users/jaime/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jaime/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/jaime/Desktop/prueba.js",
+		"/C/Users/jaime/Documents/Coding Projects/Testing Sublime Text/prueba.html",
+		"/C/Users/jaime/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
+		"/C/Users/jaime/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/C/Users/jaime/Documents/Coding Projects/Testing Sublime Text/jaimeClass.java",
+		"/C/Users/jaime/Desktop/jaimeClass.java"
+	],
+	"find":
+	{
+		"height": 209.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "score_rater.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
