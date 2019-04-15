@@ -9,7 +9,7 @@ int main() {
 	int score = 1000;
 
 	if (true) {
-		cout << "This is always displayed-.\n\n";
+		cout << "This is always displayed!\n\n";
 	}
 
 	if (false) {
