@@ -6,21 +6,21 @@ using namespace std;
 
 int main() {
 
-	int myScore = 1000;
-	int& mikesScore = myScore; // create reference
+	int score = 1000;
+	int& rScore = score; // create reference
 
-	cout << "myScore is: " << myScore << "\n";
-	cout << "mikesScore is: " << mikesScore << "\n\n";
+	cout << "score is: " << score << "\n";
+	cout << "rScore is: " << rScore << "\n\n";
 
-	cout << "Adding 500 to myScore\n";
-	myScore += 500;
-	cout << "myScore is: " << myScore << "\n";
-	cout << "mikesScore is: " << mikesScore << "\n\n";
+	cout << "Adding 500 to score\n";
+	score += 500;
+	cout << "score is: " << score << "\n";
+	cout << "rScore is: " << rScore << "\n\n";
 
-	cout << "Adding 500 to mikesScore\n";
-	mikesScore += 500;
-	cout << "myScore is: " << myScore << "\n";
-	cout << "mikesScore is: " << mikesScore << "\n\n";
+	cout << "Adding 500 to rScore\n";
+	rScore += 500;
+	cout << "score is: " << score << "\n";
+	cout << "rScore is: " << rScore << "\n\n";
 
 	return 0;
 }
