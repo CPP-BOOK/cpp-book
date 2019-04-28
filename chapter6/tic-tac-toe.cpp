@@ -25,7 +25,7 @@ void displayBoard(const vector<char>& board);
 char winner(const vector<char>& board);
 bool isLegal(const vector<char>& board, int move);
 int humanMove(const vector<char>& board, char human);
-int computerMove(vector<char>& board, char computer);
+int computerMove(vector<char> board, char computer);
 void announceWinner(char winner, char computer, char human);
 
 int main() {
@@ -124,7 +124,8 @@ void displayBoard(const vector<char>& board) {
 
 char winner(const vector<char>& board) {
 	// all possible winning rows
-	const int WINNING_ROWS[8][3] = {{0, 1, 2},
+	const int WINNING_ROWS[8][3] = {
+		{0, 1, 2},
 		{3, 4, 5},
 		{6, 7, 8},
 		{0, 3, 6},
@@ -154,7 +155,7 @@ char winner(const vector<char>& board) {
 	return NO_ONE;
 }
 
-bool isLegal(const vector<char>& board, int move) {
+inline bool isLegal(const vector<char>& board, int move) {
 	return (board[move] == EMPTY);
 }
 
@@ -168,7 +169,7 @@ int humanMove(const vector<char>& board, char human) {
 	return move;
 }
 
-int computerMove(vector<char>& board, char computer) {
+int computerMove(vector<char> board, char computer) {
 	unsigned int move = 0;
 	bool found = false;
 
