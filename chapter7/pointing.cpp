@@ -47,5 +47,5 @@ int main() {
 	cout << "(*pStr).size() is: " << (*pStr).size() << endl;
 	cout << "pStr->size() is: " << pStr->size() << endl;
 
-	return 0; 
+	return 0;
 }
