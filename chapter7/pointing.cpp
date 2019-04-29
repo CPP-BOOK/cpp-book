@@ -13,7 +13,7 @@ int main() {
 	int* pScore = 0; // declare and initialize a pointer
 
 	int score = 1000;
-	pScore = &score; // assing pointer pScore address of variable score
+	pScore = &score; // assign pointer pScore address of variable score
 
 	cout << "Assigning &score to pScore" << endl;
 	cout << "&score is: " << &score << endl; // address of score variable
