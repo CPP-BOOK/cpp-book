@@ -61,7 +61,7 @@ int main() {
 }
 
 void instructions() {
-	cout << "Werlcome to the ultimate man-machine showdown: Tic-Tac-Toe." << endl;
+	cout << "Welcome to the ultimate man-machine showdown: Tic-Tac-Toe." << endl;
 	cout << "--where human brain is pit against silicon processor\n\n";
 
 	cout << "Make your move known by entering a number, 0 - 8. The number" << endl;
