@@ -42,7 +42,10 @@ class Lobby {
 
 public:
 	Lobby();
+	Lobby(const Lobby& l);
+	Lobby& operator=(const Lobby& l);
 	~Lobby();
+	Player* GetHead() const;
 	void AddPlayer();
 	void RemovePlayer();
 	void Clear();
@@ -55,8 +58,24 @@ Lobby::Lobby():
 	m_pHead(0) {
 }
 
+Lobby::Lobby(const Lobby& l) {
+	m_pHead = new Player(l.GetHead()->GetName());
+}
+
+Lobby& Lobby::operator=(const Lobby& l) {
+	if (this != &l) {
+		m_pHead = new Player(l.GetHead()->GetName());
+	}
+
+	return *this;
+}
+
 Lobby::~Lobby() {
 	Clear();
+}
+
+Player* Lobby::GetHead() const {
+	return m_pHead;
 }
 
 void Lobby::AddPlayer() {
