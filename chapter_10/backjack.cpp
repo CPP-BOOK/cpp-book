@@ -26,7 +26,7 @@ public:
 	// returns the value of a card, 1-11
 	int GetValue() const;
 
-	// flips a card; if face up, becomes face down and vice versa
+	// flips a card; if face up, becomes face down and viceversa
 	void Flip();
 
 private:
